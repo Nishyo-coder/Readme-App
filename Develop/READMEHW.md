@@ -1,5 +1,4 @@
-# README Generator
-  undefined
+read
 
   ##Table of Contents
 
@@ -13,26 +12,31 @@
   
 
   ## Description:
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
-  ksaofndas
+  skaflda
+  
 
   ## Installation:
   npm i
 
   ## Usage:
-  kanfknaf
+  
 
-  ## License:
+  ## License
+This project is licensed under the MIT license. ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+ ['https://opensource.org/licenses/MIT'](#license)
+
   MIT
-
+  
+  
   ## Contributors:
-  jkdakfna
+  skanfnd
 
   ## Test
   npm test
 
   ## Questions
-  Contact:
+  Please Contact Me:
 
-  Github:[undefined]
-  Email: [undefined]
+  Github:[nishyo](https://github.com/Nishyo-coder)
+  Email: [nish@me]
