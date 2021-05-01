@@ -30,6 +30,8 @@ THEN they are taken to the corresponding section of the README
 
 ![Screen Shot 2021-04-30 at 10 20 20 PM](https://user-images.githubusercontent.com/79215638/116768141-7ab0dd80-aa02-11eb-9174-f0f0d7ce562c.png)
 
+Link to the walkthrough https://drive.google.com/file/d/1nybpo-0EqIdanchlf5tGfLVDyscqyLl4/view?usp=sharing
+
 ```
 
 ## Credits
