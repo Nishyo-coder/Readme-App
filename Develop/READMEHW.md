@@ -12,14 +12,14 @@ README Generator  ![GitHub license](https://img.shields.io/badge/license-MIT-blu
   
 
   ## Description:
-  To utilize a command line interface that dynamically generates a README.md from a user's input using node js, fs, and inquirer
+  To utilize a command line interface that dynamically generates a README.MD from a user's input using node js, fs, and inquirer
   
 
   ## Installation:
   npm i
 
   ## Usage:
-  This application allows a user to quickly generate a README file
+  This application allows a user to quickly generate a README file. 
 
   ## License
 This project is licensed under the MIT license. 
@@ -30,7 +30,7 @@ This project is licensed under the MIT license.
   
   
   ## Contributors:
-  To contribute clone repo from Github and be sure to run a npm install
+  To clone repo from GIthub and to run npm install
 
   ## Test
   npm test
